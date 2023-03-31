@@ -1,2 +1,2 @@
 # proposal
-index.html
+[here](index.html)
